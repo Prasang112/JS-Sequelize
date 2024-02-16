@@ -1,0 +1,16 @@
+{
+  "name": "teamup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "team.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express-validator": "^7.0.1"
+  }
+}
